@@ -15,6 +15,13 @@ For using this code you need to install on your arduino this libaries:
  - `$ Adafruit_NeoPixel`
  - `$ Adafruit_BME280`
  - `$ NTPClient`
+<table cellspacing="10">
+<tbody>
+<tr>
+![WhatsApp Image 2021-08-19 at 09 45 39 (1)](https://user-images.githubusercontent.com/57678898/130345941-df8fca65-eb75-48ba-8038-3936320f60dd.jpeg)
+![WhatsApp Image 2021-08-19 at 09 45 39](https://user-images.githubusercontent.com/57678898/130345949-fe4e2e92-9ffc-40d9-aa25-294a4c187ee2.jpeg)
+</tr>
+</tbody>
 
-
+</table>
 
