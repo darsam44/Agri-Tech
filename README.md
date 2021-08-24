@@ -1,11 +1,13 @@
-For farmers all over the world who wants to upgrade their system efficiency and their crop productivity by combination of new technology. The "PROJECT-NAME" is an agriculture product,
-the system is very cheap and efficient for farmers with any size of soil.
+We provides real-time reports on soil temperature and humidity that can be analyzed to improve and optimize
+the way of grow and produce yields on farmlands.
 
-We collect up-to-date information of soil moisture percentage and regularly present its soil condition in all indices.
-The device we work with is ESP –32, and the sensor we work with is “”
-The devices works with closed code that we write into it by Arduino.
+For farmers all over the world who wants to upgrade their system efficiency and their crop productivity by combination of new technology.
+"Agri-Tech" is an agriculture product with very cheap and efficient system for farmers with any size of soil.
+
+The solution was based on LILYGO® T-Higrow sensor with ESP32 chip. Programmed with Arduino on C.
+The chip works with closed code that we write into it by Arduino.
 We combine in our project Internet of things(IoT): 
-A neural network that composed of ESP –32 devices that communicate and transmit data to each other. one device will be responsible for receiving all the information from the other devices and will be responsible for transmitting the information to the cloud. 
+A neural network that composed of LILYGO® T-Higrow sensors with ESP32 chips that communicate and transmit data to each other. one device will be responsible for receiving all the information from the other devices and will be responsible for transmitting the information to the cloud. 
 
 For using this code you need to install on your arduino this libaries:
  - `$ Esp32`
