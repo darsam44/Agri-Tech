@@ -1,4 +1,3 @@
-[Poster Agri-Tech.pptx](https://github.com/darsam44/Agri-Tech/files/7052566/Poster.Agri-Tech.pptx)
 We provides real-time reports on soil temperature and humidity photometric electrolyte that can be analyzed to improve and optimize
 the way of grow and produce yields on farmlands.
 
@@ -40,6 +39,9 @@ We performed an experiment to see if there was a change in the results that the 
   </td>
    <td style="text-align: center;">
     <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/soil.JPG" width="50%" height="50%" /></p>
+  </td>
+     <td style="text-align: center;">
+    <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/POSTER.JPG" width="50%" height="50%" /></p>
   </td>
 </tr>
  
