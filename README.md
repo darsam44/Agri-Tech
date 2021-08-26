@@ -15,8 +15,8 @@ A neural network that composed of LILYGO® T-Higrow sensors with ESP32 chips tha
 
 For using this code you need to install on your arduino this libaries:
  - `$ Esp32`
- - `$ Es esp_now`
- - `$ Es WiFi`
+ - `$ esp_now`
+ - `$ WiFi`
  - `$ FirebaseESP32`
  - `$ Adafruit_NeoPixel`
  - `$ Adafruit_BME280`
