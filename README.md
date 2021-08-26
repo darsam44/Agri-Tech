@@ -2,7 +2,7 @@
 
 <h1>Agri-Tech</h1>
 
-We provides real-time reports on soil temperature and humidity photometric electrolyte that can be analyzed to improve and optimize
+We provides real-time reports on temperature and salinity level in the soil that can be analyzed to improve and optimize
 the way of grow and produce yields on farmlands.
 
 For farmers all over the world who wants to upgrade their system efficiency and their crop productivity by combination of new technology.
@@ -24,7 +24,7 @@ For using this code you need to install on your arduino this libaries:
 <table cellspacing="10">
 <tbody>
  
-We performed an experiment to see if there was a change in the results that the sensor felt in the electrical salinity in the soil.
+We performed an experiment to see if there was a change in the results that the sensor measure in the salinity in the soil.
  
 <tr>
    <td style="text-align: center;">
