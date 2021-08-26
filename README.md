@@ -1,4 +1,4 @@
-We provides real-time reports on soil temperature and humidity that can be analyzed to improve and optimize
+We provides real-time reports on soil temperature and humidity photometric electrolyte that can be analyzed to improve and optimize
 the way of grow and produce yields on farmlands.
 
 For farmers all over the world who wants to upgrade their system efficiency and their crop productivity by combination of new technology.
