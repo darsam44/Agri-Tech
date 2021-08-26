@@ -41,7 +41,7 @@ We performed an experiment to see if there was a change in the results that the 
     <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/soil.JPG" width="50%" height="50%" /></p>
   </td>
      <td style="text-align: center;">
-    <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/POSTER.JPG" width="50%" height="50%" /></p>
+    <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/POSTER.jpg" width="50%" height="50%" /></p>
   </td>
 </tr>
  
