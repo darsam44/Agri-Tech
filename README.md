@@ -33,18 +33,20 @@ We performed an experiment to see if there was a change in the results that the 
  
  The results showed that it does feel when the soil dries out and there is no water in it and we see a decrease in the percentage of salinity in the soil and when we give the soil water the sensor feel it and the percentage of salinity in the soil increases.
 
- <tr>
+ 
    <td style="text-align: center;">
     <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/slat.JPG" width="50%" height="50%" /></p>
   </td>
    <td style="text-align: center;">
     <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/soil.JPG" width="50%" height="50%" /></p>
   </td>
-     <td style="text-align: center;">
-    <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/POSTER.jpg" width="50%" height="50%" /></p>
+</tr>
+
+<tr>
+ <td style="text-align: center;">
+    <p><img src="https://github.com/darsam44/Agri-Tech/blob/main/photos/POSTER.jpg" width="100%" height="100%" /></p>
   </td>
 </tr>
- 
 </tbody>
 
 </table>
