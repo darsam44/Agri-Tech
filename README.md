@@ -1,5 +1,4 @@
 
-
 <h1>Agri-Tech</h1>
 
 We provides real-time reports on temperature and salinity level in the soil that can be analyzed to improve and optimize
